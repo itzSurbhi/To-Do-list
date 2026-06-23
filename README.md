@@ -1,6 +1,6 @@
 # 📝 To-Do List Web App
 
-A simple and responsive To-Do List application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to add tasks, mark them as completed, and delete tasks with an intuitive and modern user interface.
+A simple and responsive To-Do List application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to add tasks, mark them as completed, and delete tasks with an intuitive and modern user interface. 
 
 ## 🚀 Features
 
@@ -44,6 +44,7 @@ To-Do-List/
 * Add task priorities
 * Add due dates
 * Filter completed and pending tasks.
+
 
 ## Screenshots
 <img width="1793" height="685" alt="image" src="https://github.com/user-attachments/assets/f68eb71a-29d3-4246-b599-b617b701b414" />
